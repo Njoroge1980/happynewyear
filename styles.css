@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+}
+div {
+    background-color: beige;
+}
+body {
+    background-color: rgb(221, 213, 213);
+}
+button {
+    font-style:normal;
+    font-size: larger;
+    font-weight: 600;
+}
