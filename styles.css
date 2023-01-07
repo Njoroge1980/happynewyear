@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 h1 {
     color: blue;
 }
@@ -14,19 +13,4 @@ button {
     font-style:normal;
     font-size: larger;
     font-weight: 600;
-=======
-h1 {
-    color: blue;
-}
-div {
-    background-color: beige;
-}
-body {
-    background-color: rgb(221, 213, 213);
-}
-button {
-    font-style:normal;
-    font-size: larger;
-    font-weight: 600;
->>>>>>> 9001ad60a8ea76c1cccf53bb93fada66bd1df3f6
 }
