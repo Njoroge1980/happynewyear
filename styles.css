@@ -11,6 +11,7 @@ p {
 .jumbotron {
     background-color: beige;
     margin: auto;
+    background-image:photos\marek-piwnicki-4-FPt5jLFs8-unsplash;
     
 }
 body {
@@ -26,4 +27,8 @@ button {
  and (device-width: 360px)
  and (device-height: 640px)
  and (-webkit-device-pixel-ratio: 2) {
+}
+
+.photos {
+    grid-column: inherit;
 }
